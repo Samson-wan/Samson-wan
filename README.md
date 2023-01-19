@@ -1,19 +1,14 @@
-# Hi, I'm Rensong 👋
 
-## Info 📝
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+## About Me 📝
+- 17, he/him
+- currently studying computer science in high school.
+- have braincells
+
 
 ## Social 📱
-- 👔 LinkedIn(https://www.linkedin.com/in/rensong-wan-3155b0255/)
-- 🗣 Twitter 
-- 📷 Instagram 
+- 👔 [LinkedIn](https://www.linkedin.com/in/rensong-wan-3155b0255/)
+- 📷 [Instagram](https://www.instagram.com/lukkrim_/)
 - ✉️ rensongwan@gmail.com 
 
 
