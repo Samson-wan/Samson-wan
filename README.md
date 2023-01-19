@@ -1,10 +1,6 @@
-### Hi there 👋
+# Hi, I'm Rensong 👋
 
-
-**Samson-wan/Samson-wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Info 📝
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,3 +9,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Social 📱
+- 👔 LinkedIn(https://www.linkedin.com/in/rensong-wan-3155b0255/)
+- 🗣 Twitter 
+- 📷 Instagram 
+- ✉️ rensongwan@gmail.com 
+
+
+
